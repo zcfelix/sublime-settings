@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Alternative Autocompletion",
+		"AutoFileName",
+		"BeautifyRuby",
+		"ConvertToUTF8",
+		"Directory Settings",
+		"DocBlockr",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"SublimeLinter",
+		"Theme - Flatland",
+		"Vintageous"
+	]
+}
